@@ -1,0 +1,614 @@
+Reporting data\nEver Augusto Torres SilvaCastor Technical test
+Mean Responses for Gentle Reminders
+                                                   has_response
+cumulative_Gentle_Reminder age_group risk_segment              
+1                          18-35     High              0.911765
+                                     Low               0.404255
+                                     Medium            0.460000
+                           36-50     High              0.666667
+                                     Low               0.540984
+                                     Medium            0.521739
+                           50-65     High              0.869565
+                                     Low               0.456140
+                                     Medium            0.600000
+                           65+       High              0.800000
+                                     Low               0.517241
+                                     Medium            0.500000
+2                          18-35     High              0.794118
+                                     Low               0.382979
+                                     Medium            0.220000
+                           36-50     High              0.851852
+                                     Low               0.573770
+                                     Medium            0.586957
+                           50-65     High              0.782609
+                                     Low               0.473684
+                                     Medium            0.476923
+                           65+       High              0.840000
+                                     Low               0.517241
+                                     Medium            0.500000
+3                          18-35     High              0.735294
+                                     Low               0.297872
+                                     Medium            0.400000
+                           36-50     High              0.888889
+                                     Low               0.459016
+                                     Medium            0.434783
+                           50-65     High              0.826087
+                                     Low               0.421053
+                                     Medium            0.507692
+                           65+       High              0.720000
+                                     Low               0.517241
+                                     Medium            0.527778
+4                          18-35     High              0.676471
+                                     Low               0.595745
+                                     Medium            0.400000
+                           36-50     High              0.851852
+                                     Low               0.426230
+                                     Medium            0.586957
+                           50-65     High              0.739130
+                                     Low               0.631579
+                                     Medium            0.461538
+                           65+       High              0.840000
+                                     Low               0.551724
+                                     Medium            0.527778
+5                          18-35     High              0.794118
+                                     Low               0.510638
+                                     Medium            0.360000
+                           36-50     High              0.703704
+                                     Low               0.540984
+                                     Medium            0.565217
+                           50-65     High              0.739130
+                                     Low               0.526316
+                                     Medium            0.492308
+                           65+       High              0.840000
+                                     Low               0.517241
+                                     Medium            0.527778
+6                          18-35     High              0.705882
+                                     Low               0.434783
+                                     Medium            0.489796
+                           36-50     High              0.814815
+                                     Low               0.459016
+                                     Medium            0.500000
+                           50-65     High              0.826087
+                                     Low               0.491228
+                                     Medium            0.461538
+                           65+       High              0.680000
+                                     Low               0.500000
+                                     Medium            0.333333
+7                          18-35     High              0.666667
+                                     Low               0.500000
+                                     Medium            0.469388
+                           36-50     High              0.692308
+                                     Low               0.383333
+                                     Medium            0.555556
+                           50-65     High              0.727273
+                                     Low               0.385965
+                                     Medium            0.412698
+                           65+       High              0.640000
+                                     Low               0.428571
+                                     Medium            0.333333
+8                          18-35     High              0.545455
+                                     Low               0.304348
+                                     Medium            0.479167
+                           36-50     High              0.576923
+                                     Low               0.322034
+                                     Medium            0.400000
+                           50-65     High              0.681818
+                                     Low               0.410714
+                                     Medium            0.435484
+                           65+       High              0.560000
+                                     Low               0.464286
+                                     Medium            0.323529
+9                          18-35     High              0.454545
+                                     Low               0.295455
+                                     Medium            0.361702
+                           36-50     High              0.576923
+                                     Low               0.189655
+                                     Medium            0.409091
+                           50-65     High              0.545455
+                                     Low               0.259259
+                                     Medium            0.266667
+                           65+       High              0.280000
+                                     Low               0.269231
+                                     Medium            0.212121
+10                         18-35     High              0.484848
+                                     Low               0.341463
+                                     Medium            0.288889
+                           36-50     High              0.440000
+                                     Low               0.218182
+                                     Medium            0.340909
+                           50-65     High              0.571429
+                                     Low               0.333333
+                                     Medium            0.400000
+                           65+       High              0.541667
+                                     Low               0.333333
+                                     Medium            0.281250
+11                         18-35     High              0.500000
+                                     Low               0.243243
+                                     Medium            0.136364
+                           36-50     High              0.375000
+                                     Low               0.244898
+                                     Medium            0.261905
+                           50-65     High              0.523810
+                                     Low               0.173913
+                                     Medium            0.224490
+                           65+       High              0.190476
+                                     Low               0.210526
+                                     Medium            0.166667
+12                         18-35     High              0.275862
+                                     Low               0.064516
+                                     Medium            0.219512
+                           36-50     High              0.409091
+                                     Low               0.250000
+                                     Medium            0.195122
+                           50-65     High              0.421053
+                                     Low               0.131579
+                                     Medium            0.272727
+                           65+       High              0.588235
+                                     Low               0.214286
+                                     Medium            0.357143
+13                         18-35     High              0.320000
+                                     Low               0.206897
+                                     Medium            0.184211
+                           36-50     High              0.368421
+                                     Low               0.270270
+                                     Medium            0.085714
+                           50-65     High              0.312500
+                                     Low               0.133333
+                                     Medium            0.184211
+                           65+       High              0.461538
+                                     Low               0.250000
+                                     Medium            0.136364
+14                         18-35     High              0.238095
+                                     Low               0.142857
+                                     Medium            0.153846
+                           36-50     High              0.384615
+                                     Low               0.218750
+                                     Medium            0.166667
+                           50-65     High              0.357143
+                                     Low               0.192308
+                                     Medium            0.160000
+                           65+       High              0.142857
+                                     Low               0.090909
+                                     Medium            0.153846
+15                         18-35     High              0.117647
+                                     Low               0.111111
+                                     Medium            0.222222
+                           36-50     High              0.300000
+                                     Low               0.153846
+                                     Medium            0.240000
+                           50-65     High              0.363636
+                                     Low               0.266667
+                                     Medium            0.105263
+                           65+       High              0.500000
+                                     Low               0.142857
+                                     Medium            0.300000
+16                         18-35     High              0.300000
+                                     Low               0.250000
+                                     Medium            0.250000
+                           36-50     High              0.500000
+                                     Low               0.181818
+                                     Medium            0.312500
+                           50-65     High              0.555556
+                                     Low               0.285714
+                                     Medium            0.200000
+                           65+       High              0.000000
+                                     Low               0.000000
+                                     Medium            0.142857
+17                         18-35     High              0.714286
+                                     Low               0.142857
+                                     Medium            0.000000
+                           36-50     High              0.000000
+                                     Low               0.312500
+                                     Medium            0.272727
+                           50-65     High              0.333333
+                                     Low               0.250000
+                                     Medium            0.333333
+                           65+       High              0.200000
+                                     Low               0.500000
+                                     Medium            0.000000
+18                         18-35     High              0.500000
+                                     Low               0.200000
+                                     Medium            0.000000
+                           36-50     High              0.666667
+                                     Low               0.200000
+                                     Medium            0.285714
+                           50-65     High              0.500000
+                                     Low               0.000000
+                                     Medium            0.000000
+                           65+       High              0.500000
+                                     Low               0.000000
+                                     Medium            0.000000
+19                         18-35     High              0.000000
+                                     Low               0.000000
+                           36-50     High              0.666667
+                                     Low               0.000000
+                                     Medium            0.250000
+                           50-65     High              0.000000
+                                     Low               1.000000
+                                     Medium            0.500000
+                           65+       High              0.000000
+                                     Low               0.000000
+                                     Medium            1.000000
+20                         18-35     High              1.000000
+                                     Low               1.000000
+                           36-50     High              0.000000
+                                     Low               0.000000
+                                     Medium            0.333333
+                           50-65     High              0.000000
+                                     Low               1.000000
+                           65+       High              1.000000
+                                     Low               0.000000
+21                         18-35     High              0.000000
+                                     Low               1.000000
+                           36-50     High              0.000000
+                                     Medium            0.500000
+                           50-65     High              1.000000
+                                     Low               1.000000
+                           65+       High              0.000000
+22                         18-35     High              1.000000
+                           50-65     High              0.000000
+23                         18-35     High              0.000000
+                           50-65     High              0.000000
+Mean Responses for Urgent Alerts
+                                                has_response
+cumulative_Urgent_Alert age_group risk_segment              
+1                       18-35     High              0.794118
+                                  Low               0.553191
+                                  Medium            0.540000
+                        36-50     High              0.888889
+                                  Low               0.491803
+                                  Medium            0.434783
+                        50-65     High              0.826087
+                                  Low               0.526316
+                                  Medium            0.507692
+                        65+       High              0.800000
+                                  Low               0.517241
+                                  Medium            0.583333
+2                       18-35     High              0.735294
+                                  Low               0.468085
+                                  Medium            0.580000
+                        36-50     High              0.925926
+                                  Low               0.524590
+                                  Medium            0.500000
+                        50-65     High              0.695652
+                                  Low               0.526316
+                                  Medium            0.461538
+                        65+       High              0.760000
+                                  Low               0.620690
+                                  Medium            0.333333
+3                       18-35     High              0.676471
+                                  Low               0.595745
+                                  Medium            0.520000
+                        36-50     High              0.814815
+                                  Low               0.540984
+                                  Medium            0.434783
+                        50-65     High              0.782609
+                                  Low               0.508772
+                                  Medium            0.446154
+                        65+       High              0.800000
+                                  Low               0.551724
+                                  Medium            0.500000
+4                       18-35     High              0.705882
+                                  Low               0.446809
+                                  Medium            0.500000
+                        36-50     High              0.666667
+                                  Low               0.524590
+                                  Medium            0.413043
+                        50-65     High              0.869565
+                                  Low               0.491228
+                                  Medium            0.461538
+                        65+       High              0.720000
+                                  Low               0.310345
+                                  Medium            0.527778
+5                       18-35     High              0.558824
+                                  Low               0.446809
+                                  Medium            0.420000
+                        36-50     High              0.666667
+                                  Low               0.377049
+                                  Medium            0.456522
+                        50-65     High              0.695652
+                                  Low               0.561404
+                                  Medium            0.400000
+                        65+       High              0.800000
+                                  Low               0.551724
+                                  Medium            0.305556
+6                       18-35     High              0.647059
+                                  Low               0.531915
+                                  Medium            0.440000
+                        36-50     High              0.814815
+                                  Low               0.416667
+                                  Medium            0.500000
+                        50-65     High              0.608696
+                                  Low               0.368421
+                                  Medium            0.476923
+                        65+       High              0.800000
+                                  Low               0.517241
+                                  Medium            0.555556
+7                       18-35     High              0.676471
+                                  Low               0.297872
+                                  Medium            0.480000
+                        36-50     High              0.666667
+                                  Low               0.366667
+                                  Medium            0.288889
+                        50-65     High              0.782609
+                                  Low               0.368421
+                                  Medium            0.446154
+                        65+       High              0.720000
+                                  Low               0.482759
+                                  Medium            0.500000
+8                       18-35     High              0.625000
+                                  Low               0.361702
+                                  Medium            0.240000
+                        36-50     High              0.518519
+                                  Low               0.300000
+                                  Medium            0.311111
+                        50-65     High              0.347826
+                                  Low               0.315789
+                                  Medium            0.323077
+                        65+       High              0.520000
+                                  Low               0.344828
+                                  Medium            0.472222
+9                       18-35     High              0.516129
+                                  Low               0.177778
+                                  Medium            0.291667
+                        36-50     High              0.384615
+                                  Low               0.366667
+                                  Medium            0.204545
+                        50-65     High              0.434783
+                                  Low               0.263158
+                                  Medium            0.250000
+                        65+       High              0.333333
+                                  Low               0.370370
+                                  Medium            0.250000
+10                      18-35     High              0.428571
+                                  Low               0.121951
+                                  Medium            0.319149
+                        36-50     High              0.200000
+                                  Low               0.275862
+                                  Medium            0.268293
+                        50-65     High              0.318182
+                                  Low               0.403509
+                                  Medium            0.193548
+                        65+       High              0.454545
+                                  Low               0.520000
+                                  Medium            0.200000
+11                      18-35     High              0.346154
+                                  Low               0.394737
+                                  Medium            0.285714
+                        36-50     High              0.260870
+                                  Low               0.309091
+                                  Medium            0.236842
+                        50-65     High              0.157895
+                                  Low               0.301887
+                                  Medium            0.166667
+                        65+       High              0.285714
+                                  Low               0.090909
+                                  Medium            0.161290
+12                      18-35     High              0.240000
+                                  Low               0.212121
+                                  Medium            0.263158
+                        36-50     High              0.285714
+                                  Low               0.183673
+                                  Medium            0.096774
+                        50-65     High              0.222222
+                                  Low               0.187500
+                                  Medium            0.142857
+                        65+       High              0.400000
+                                  Low               0.050000
+                                  Medium            0.172414
+13                      18-35     High              0.260870
+                                  Low               0.129032
+                                  Medium            0.178571
+                        36-50     High              0.062500
+                                  Low               0.256410
+                                  Medium            0.076923
+                        50-65     High              0.333333
+                                  Low               0.186047
+                                  Medium            0.220000
+                        65+       High              0.210526
+                                  Low               0.235294
+                                  Medium            0.153846
+14                      18-35     High              0.444444
+                                  Low               0.111111
+                                  Medium            0.142857
+                        36-50     High              0.416667
+                                  Low               0.093750
+                                  Medium            0.000000
+                        50-65     High              0.538462
+                                  Low               0.147059
+                                  Medium            0.238095
+                        65+       High              0.307692
+                                  Low               0.400000
+                                  Medium            0.333333
+15                      18-35     High              0.300000
+                                  Low               0.190476
+                                  Medium            0.333333
+                        36-50     High              0.428571
+                                  Low               0.190476
+                                  Medium            0.200000
+                        50-65     High              0.428571
+                                  Low               0.111111
+                                  Medium            0.107143
+                        65+       High              0.111111
+                                  Low               0.111111
+                                  Medium            0.166667
+16                      18-35     High              0.250000
+                                  Low               0.105263
+                                  Medium            0.153846
+                        36-50     High              0.250000
+                                  Low               0.266667
+                                  Medium            0.000000
+                        50-65     High              0.666667
+                                  Low               0.227273
+                                  Medium            0.090909
+                        65+       High              0.500000
+                                  Low               0.200000
+                                  Medium            0.076923
+17                      18-35     High              0.250000
+                                  Low               0.083333
+                                  Medium            0.400000
+                        36-50     High              1.000000
+                                  Low               0.181818
+                                  Medium            0.000000
+                        50-65     High              0.000000
+                                  Low               0.416667
+                                  Medium            0.153846
+                        65+       High              0.400000
+                                  Low               0.000000
+                                  Medium            0.166667
+18                      18-35     High              0.000000
+                                  Low               0.142857
+                                  Medium            0.400000
+                        36-50     High              0.500000
+                                  Low               0.250000
+                                  Medium            0.000000
+                        50-65     High              0.000000
+                                  Low               0.000000
+                                  Medium            0.142857
+                        65+       High              0.333333
+                                  Low               0.666667
+                                  Medium            0.000000
+19                      18-35     High              0.333333
+                                  Low               0.250000
+                                  Medium            0.000000
+                        36-50     High              1.000000
+                                  Low               0.200000
+                        50-65     High              0.000000
+                                  Low               0.166667
+                                  Medium            0.000000
+                        65+       High              1.000000
+                                  Low               1.000000
+                                  Medium            0.000000
+20                      18-35     High              0.500000
+                                  Low               0.500000
+                                  Medium            0.000000
+                        36-50     High              0.000000
+                                  Low               0.333333
+                        50-65     Low               0.666667
+                                  Medium            0.250000
+                        65+       Low               0.000000
+                                  Medium            1.000000
+21                      18-35     High              0.000000
+                                  Medium            0.000000
+                        36-50     Low               0.500000
+                        50-65     Medium            0.000000
+22                      50-65     Medium            0.000000
+23                      50-65     Medium            0.000000
+24                      50-65     Medium            0.000000
+Calculating significant difference between Nudge 1 and subsequent nudges - Global
+Comparing Nudge 1 vs Nudge 2 (Available sample N=500)
+  - Response Rate: Nudge 1 (60.8%) vs Nudge 2 (55.2%)
+  - P-value: 0.0836 -> No (No significant difference)
+-----------------------------------------------------------------
+Comparing Nudge 1 vs Nudge 3 (Available sample N=500)
+  - Response Rate: Nudge 1 (60.8%) vs Nudge 3 (54.4%)
+  - P-value: 0.0473 -> YES (Significant difference)
+-----------------------------------------------------------------
+Comparing Nudge 1 vs Nudge 4 (Available sample N=500)
+  - Response Rate: Nudge 1 (60.8%) vs Nudge 4 (56.2%)
+  - P-value: 0.1580 -> No (No significant difference)
+-----------------------------------------------------------------
+Comparing Nudge 1 vs Nudge 5 (Available sample N=500)
+  - Response Rate: Nudge 1 (60.8%) vs Nudge 5 (54.6%)
+  - P-value: 0.0548 -> No (No significant difference)
+-----------------------------------------------------------------
+Comparing Nudge 1 vs Nudge 6 (Available sample N=500)
+  - Response Rate: Nudge 1 (60.8%) vs Nudge 6 (56.6%)
+  - P-value: 0.1990 -> No (No significant difference)
+-----------------------------------------------------------------
+Comparing Nudge 1 vs Nudge 7 (Available sample N=500)
+  - Response Rate: Nudge 1 (60.8%) vs Nudge 7 (51.4%)
+  - P-value: 0.0034 -> YES (Significant difference)
+-----------------------------------------------------------------
+Comparing Nudge 1 vs Nudge 8 (Available sample N=500)
+  - Response Rate: Nudge 1 (60.8%) vs Nudge 8 (57.2%)
+  - P-value: 0.2744 -> No (No significant difference)
+-----------------------------------------------------------------
+Comparing Nudge 1 vs Nudge 9 (Available sample N=500)
+  - Response Rate: Nudge 1 (60.8%) vs Nudge 9 (54.0%)
+  - P-value: 0.0348 -> YES (Significant difference)
+-----------------------------------------------------------------
+Comparing Nudge 1 vs Nudge 10 (Available sample N=500)
+  - Response Rate: Nudge 1 (60.8%) vs Nudge 10 (58.2%)
+  - P-value: 0.4395 -> No (No significant difference)
+-----------------------------------------------------------------
+Comparing Nudge 1 vs Nudge 11 (Available sample N=500)
+  - Response Rate: Nudge 1 (60.8%) vs Nudge 11 (52.2%)
+  - P-value: 0.0074 -> YES (Significant difference)
+-----------------------------------------------------------------
+Comparing Nudge 1 vs Nudge 12 (Available sample N=500)
+  - Response Rate: Nudge 1 (60.8%) vs Nudge 12 (55.8%)
+  - P-value: 0.1237 -> No (No significant difference)
+-----------------------------------------------------------------
+Comparing Nudge 1 vs Nudge 13 (Available sample N=500)
+  - Response Rate: Nudge 1 (60.8%) vs Nudge 13 (57.6%)
+  - P-value: 0.3345 -> No (No significant difference)
+-----------------------------------------------------------------
+Comparing Nudge 1 vs Nudge 14 (Available sample N=500)
+  - Response Rate: Nudge 1 (60.8%) vs Nudge 14 (57.8%)
+  - P-value: 0.3675 -> No (No significant difference)
+-----------------------------------------------------------------
+Comparing Nudge 1 vs Nudge 15 (Available sample N=500)
+  - Response Rate: Nudge 1 (60.8%) vs Nudge 15 (57.8%)
+  - P-value: 0.3675 -> No (No significant difference)
+-----------------------------------------------------------------
+Comparing Nudge 1 vs Nudge 16 (Available sample N=499)
+  - Response Rate: Nudge 1 (60.8%) vs Nudge 16 (24.0%)
+  - P-value: 0.0000 -> YES (Significant difference)
+-----------------------------------------------------------------
+Comparing Nudge 1 vs Nudge 17 (Available sample N=499)
+  - Response Rate: Nudge 1 (60.8%) vs Nudge 17 (23.2%)
+  - P-value: 0.0000 -> YES (Significant difference)
+-----------------------------------------------------------------
+Comparing Nudge 1 vs Nudge 18 (Available sample N=499)
+  - Response Rate: Nudge 1 (60.8%) vs Nudge 18 (21.6%)
+  - P-value: 0.0000 -> YES (Significant difference)
+-----------------------------------------------------------------
+Comparing Nudge 1 vs Nudge 19 (Available sample N=499)
+  - Response Rate: Nudge 1 (60.8%) vs Nudge 19 (23.4%)
+  - P-value: 0.0000 -> YES (Significant difference)
+-----------------------------------------------------------------
+Comparing Nudge 1 vs Nudge 20 (Available sample N=496)
+  - Response Rate: Nudge 1 (60.8%) vs Nudge 20 (22.6%)
+  - P-value: 0.0000 -> YES (Significant difference)
+-----------------------------------------------------------------
+Comparing Nudge 1 vs Nudge 21 (Available sample N=490)
+  - Response Rate: Nudge 1 (60.8%) vs Nudge 21 (21.4%)
+  - P-value: 0.0000 -> YES (Significant difference)
+-----------------------------------------------------------------
+Comparing Nudge 1 vs Nudge 22 (Available sample N=481)
+  - Response Rate: Nudge 1 (60.8%) vs Nudge 22 (22.9%)
+  - P-value: 0.0000 -> YES (Significant difference)
+-----------------------------------------------------------------
+Comparing Nudge 1 vs Nudge 23 (Available sample N=466)
+  - Response Rate: Nudge 1 (60.8%) vs Nudge 23 (19.5%)
+  - P-value: 0.0000 -> YES (Significant difference)
+-----------------------------------------------------------------
+Comparing Nudge 1 vs Nudge 24 (Available sample N=434)
+  - Response Rate: Nudge 1 (60.8%) vs Nudge 24 (22.8%)
+  - P-value: 0.0000 -> YES (Significant difference)
+-----------------------------------------------------------------
+Comparing Nudge 1 vs Nudge 25 (Available sample N=393)
+  - Response Rate: Nudge 1 (60.8%) vs Nudge 25 (24.2%)
+  - P-value: 0.0000 -> YES (Significant difference)
+-----------------------------------------------------------------
+Comparing Nudge 1 vs Nudge 26 (Available sample N=347)
+  - Response Rate: Nudge 1 (60.8%) vs Nudge 26 (23.3%)
+  - P-value: 0.0000 -> YES (Significant difference)
+-----------------------------------------------------------------
+Comparing Nudge 1 vs Nudge 27 (Available sample N=297)
+  - Response Rate: Nudge 1 (60.8%) vs Nudge 27 (25.3%)
+  - P-value: 0.0000 -> YES (Significant difference)
+-----------------------------------------------------------------
+Comparing Nudge 1 vs Nudge 28 (Available sample N=235)
+  - Response Rate: Nudge 1 (60.8%) vs Nudge 28 (22.1%)
+  - P-value: 0.0000 -> YES (Significant difference)
+-----------------------------------------------------------------
+Comparing Nudge 1 vs Nudge 29 (Available sample N=171)
+  - Response Rate: Nudge 1 (60.8%) vs Nudge 29 (19.9%)
+  - P-value: 0.0000 -> YES (Significant difference)
+-----------------------------------------------------------------
+Comparing Nudge 1 vs Nudge 30 (Available sample N=112)
+  - Response Rate: Nudge 1 (60.8%) vs Nudge 30 (26.8%)
+  - P-value: 0.0000 -> YES (Significant difference)
+-----------------------------------------------------------------
